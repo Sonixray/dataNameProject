@@ -1,0 +1,5 @@
+= dataNameProject
+
+Welcome on dataNameProject, the first python program that allows you to see some informations about name in France with a massive database.
+
+==/!\ Don't forget to install matplotlib /!\
